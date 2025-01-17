@@ -18,7 +18,7 @@ Alternative installation is possible without local dependencies relying on [Dock
 
 Clone the repository
 
-    https://github.com/sufianto/Gudang-Logistic.git
+    https://github.com/sufianto/Rental_lapangan_Payment_Gateway.git
 
 Switch to the repo folder
 
